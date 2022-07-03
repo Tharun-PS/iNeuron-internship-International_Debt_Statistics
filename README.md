@@ -15,7 +15,7 @@ In this project, we are going to analyze international debt data collected by Th
 
 [6. Average amount of debt across indicators](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/6thQn?publish=yes)
 
-7. The highest amount of principal repayments
+[7. The highest amount of principal repayments](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/Sheet10?publish=yes)
 
 8. The most common debt indicator
 
