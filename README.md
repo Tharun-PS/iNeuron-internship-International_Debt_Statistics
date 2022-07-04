@@ -5,7 +5,7 @@ In this project, we are going to analyze international debt data collected by Th
 
 [1. The World Bank's international debt data](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes)
 
-2. Finding the number of distinct countries
+[2. Finding the number of distinct countries](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/4thQn?publish=yes)
 
 3. Finding out the distinct debt indicators
 
