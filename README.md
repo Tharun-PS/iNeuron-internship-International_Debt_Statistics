@@ -3,7 +3,7 @@ In this project, we are going to analyze international debt data collected by Th
 
 ## <u>PROJECT TASKS</u>
 
-<a href="https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes" target="_blank">1. The World Bank's international debt data</a>
+<a href="https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes/" target="_blank">1. The World Bank's international debt data</a>
 
 <a href="https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/2ndQn?publish=yes">2. Finding the number of distinct countries</a>
 
