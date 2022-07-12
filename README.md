@@ -3,13 +3,13 @@ In this project, we are going to analyze international debt data collected by Th
 
 ## <u>PROJECT TASKS</u>
 
-[1. The World Bank's international debt data](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes){:target="\_blank"}
+<a href="https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes" target="_blank">1. The World Bank's international debt data</a>
 
-[2. Finding the number of distinct countries](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/2ndQn?publish=yes){:target="\_blank"}
+<a href="https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/2ndQn?publish=yes">2. Finding the number of distinct countries</a>
 
 [3. Finding out the distinct debt indicators](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/6thQn?publish=yes)
 
-[4. Totalling the amount of debt owed by the countries ](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/4thQn?publish=yes){:target="\_blank"}
+[4. Totalling the amount of debt owed by the countries ](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/4thQn?publish=yes)
 
 [5. Country with the highest debt](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/5thQn?publish=yes)
 
