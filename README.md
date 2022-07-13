@@ -19,4 +19,4 @@ In this project, we are going to analyze international debt data collected by Th
 
 [8. The most common debt indicator](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/8thQn?publish=yes)
 
-[9. Other viable debt issues and conclusion](https://public.tableau.com/app/profile/prashanth.s7649/viz/Question_9_16576901455540/IncomeGroup?publish=yes)
+[9. Other viable debt issues and conclusion](https://public.tableau.com/app/profile/prashanth.s7649/viz/InternationalDebtStatistics_16577025790310/IncomeGroup?publish=yes)
