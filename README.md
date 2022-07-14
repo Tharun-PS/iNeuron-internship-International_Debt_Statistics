@@ -1,6 +1,12 @@
 # International_Debt_Statistics
 In this project, we are going to analyze international debt data collected by The World  Bank. The dataset contains information about the amount of debt (in USD) owed by  developing countries across several categories. 
 
+## <u>TOOLS USED</u>
+1. Tableau
+2. Python
+3. SQL
+4. MS Excel
+
 ## <u>PROJECT TASKS</u>
 
 [1. The World Bank's international debt data](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes)
