@@ -8,7 +8,7 @@ In this project, we are going to analyze international debt data collected by Th
 4. MS Excel
 
 ## <u>DEMO VIDEO</u>
-[Demo Video of International Debt Statistics](https://www.youtube.com/watch?v=fMDu3x4Pmj8)
+[Click here to view Demo Video of International Debt Statistics](https://www.youtube.com/watch?v=fMDu3x4Pmj8)
 
 ## <u>PROJECT TASKS</u>
 
