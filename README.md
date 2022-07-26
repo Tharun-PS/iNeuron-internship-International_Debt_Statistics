@@ -7,6 +7,9 @@ In this project, we are going to analyze international debt data collected by Th
 3. SQL
 4. MS Excel
 
+## <u>DEMO VIDEO</u>
+[Demo Video of International Debt Statistics](https://www.youtube.com/watch?v=fMDu3x4Pmj8)
+
 ## <u>PROJECT TASKS</u>
 
 [1. The World Bank's international debt data](https://public.tableau.com/app/profile/tharun.sathiyamurthy/viz/InternationalDebtStatistics_16560012214840/1stQn?publish=yes)
